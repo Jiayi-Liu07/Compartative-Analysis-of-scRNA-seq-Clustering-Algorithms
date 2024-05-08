@@ -5,6 +5,7 @@ Network diagram:
 ![alt text](scDeepCluster.png)
 
 **scAce**, a ZINB Variational Autoencoder-based deep embedding clustering Method, with cluster merging step, for Single Cell RNA-seq data. 
+
 Network Diagram:
 
 ![alt text](scAce.png)
