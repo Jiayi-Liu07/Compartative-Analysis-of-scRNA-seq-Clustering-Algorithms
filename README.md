@@ -1,5 +1,3 @@
-## Comparative Analysis of Clustering Algorithms for single-cell RNA-sequencing data
-
 **scDeepCluster**, a ZINB Autoencoder-based deep embedding clustering Method for Single Cell RNA-seq data. 
 
 Network diagram:
